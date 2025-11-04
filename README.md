@@ -2,7 +2,8 @@
 
 ### Running multi-objective max-cut problems on D-Wave quantum annealing processors
 
-Code and data accompanying arXiv preprint *Multi-objective optimization by quantum annealing* (arXiv identifier TBD).
+Code and data accompanying arXiv preprint [**Multi-objective optimization by quantum 
+annealing**](http://arxiv.org/abs/2511.01762).
 
 ### Installation
 
