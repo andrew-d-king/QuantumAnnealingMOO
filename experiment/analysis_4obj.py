@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 from helpers import *
 
 num_objectives = 4
-solvernames = ['Advantage2_system1.6', 'Advantage_system4.1']
+solvernames = ['Advantage2_system1.7', 'Advantage_system4.1']
 
 hv_max = get_hv_max(num_objectives)
 

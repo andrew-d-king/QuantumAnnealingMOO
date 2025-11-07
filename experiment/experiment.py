@@ -20,7 +20,7 @@ num_objectives = 4  # Number of objective functions, either 3 or 4
 num_iterations = 500  # Maximum number of QPU calls to combine
 num_repetitions = 5  # Number of repetitions for error bars
 solver_index = 0
-solvername = ['Advantage2_system1.6', 'Advantage_system4.1'][solver_index]
+solvername = ['Advantage2_system1.7', 'Advantage_system4.1'][solver_index]
 
 hv_max = get_hv_max(num_objectives)
 reference_point = get_reference_point(num_objectives)
